@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'prithulsarker@nevada.unr.edu'
@@ -72,4 +72,4 @@ I am currently a second year Ph.D. Student in the department of computer science
 Since my childhood, I have been good with numbers. I enjoy solving problems and am confident at analyzing data. I took an interest in computer programming when I started to learn Visual Basic using CD instructions in windows XP back in 2006. To this day, whenever I have time, I try to solve analytical math problems as well as algorithm and coding problems from competitive programming sites. Since I always had an interest in data analytics and real-life datasets, I did my undergraduate thesis on statistical analysis and modeling on a dataset of the national meteorological department and established critical analysis.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
