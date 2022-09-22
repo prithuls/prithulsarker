@@ -1,5 +1,5 @@
 ---
-title: 'Analysis of Smooth Pursuit Assessment in Virtual Reality and Concussion Detection using BiLSTM'
+title: 'Virtual-Reality based Vestibular Ocular Motor Screening for Concussion Detection using Machine-Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
