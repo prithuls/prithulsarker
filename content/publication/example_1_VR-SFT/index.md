@@ -6,6 +6,7 @@ title: 'VR-SFT: Reproducing Swinging Flashlight Test in Virtual Reality to Detec
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Nasif Zaman
   - Alireza Tavakkoli
 
 # Author notes (optional)
