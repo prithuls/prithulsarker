@@ -21,13 +21,25 @@ feature:
     icon_pack: fab
     name: Python
   - description: 
+    icon: brain-circuit
+    icon_pack: far
+    name: Deep Learning & Machine Learning
+  - description: 
+    icon: bolt
+    icon_pack: fas
+    name: Virtual Reality
+  - description: 
+    icon: gears
+    icon_pack: fas
+    name: MySQL
+  - description: 
     icon: r-project
     icon_pack: fab
     name: R
   - description: 
     icon: chart-line
     icon_pack: fas
-    name: Machine Learning & Statistics 
+    name: Statistics 
 #  - description: 10%
 #    icon: camera-retro
 #    icon_pack: fas
