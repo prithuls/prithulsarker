@@ -26,11 +26,10 @@ experience:
     company: Human-machine Perception Lab, University of Nevada, Reno
     company_url: 'https://www.unr.edu/'
     company_logo: org-x
-    location: Nevada
+    location: Nevada, United States
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include: 
         *	Led my own research, implemented an ophthalmic assessment in virtual reality, collected control and patient data, analyzed data to predict and quantify defect in participants.
         *	Collaborated and coordinated with Neuromechanics Lab on detection of concussion.
         *	Assembled electrical components, programmed, and implemented an ophthalmic assessment using Arduino and Pupil Core (from Pupil Labs).
