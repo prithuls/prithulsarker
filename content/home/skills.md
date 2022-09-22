@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 
     icon: brain-circuit
-    icon_pack: far
+    icon_pack: fas
     name: Deep Learning & Machine Learning
   - description: 
     icon: bolt
