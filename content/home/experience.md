@@ -66,6 +66,32 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2019-06-01'
     date_end: '2019-12-31'
+    
+  - title: Product Officer
+    company: Loence Solution
+    company_url: 'https://echologyx.com/'
+    company_logo: org-x
+    location: Dhaka, Bangladesh
+    date_start: '2018-07-01'
+    date_end: '2019-05-31'
+    description: |2-
+        *	Researched local and international ERP market and assessed competition by comparing products
+        *	Analyzed client needs and drove new product development
+        *	Led cross-functional teams
+
+  - title: Assistant Engineer (Electrical)
+    company: Energypac Engineering Ltd.
+    company_url: 'https://energypac.com.bd/'
+    company_logo: org-x
+    location: Dhaka, Bangladesh
+    date_start: '2017-11-16'
+    date_end: '2018-06-30'
+    description: |2-
+        *	On and off-site client support
+        *	Carried out test procedures ensuring that substation equipment works to its specification
+        *	Investigated issues, and troubleshot faults in the electrical system of transformers and other safety equipment
+
+
 
 
 design:
