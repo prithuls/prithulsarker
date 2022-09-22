@@ -37,6 +37,15 @@ experience:
       *	Collaborated and coordinated with Neuromechanics Lab on detection of concussion symptom from vestibular and ocular data collected through virtual reality (VR) headset using different neural network architecture
       *	Assembled electrical components, programmed, and implemented an ophthalmic assessment using Arduino and Pupil Core (from Pupil Labs), and conducted a research study to get pupillomotor data in various instances and analyzed the data to predict a particular condition in participants.
 
+   - title: Education Mentor
+    company: Army Educational Outreach Program
+    company_url: 'https://www.usaeop.com/'
+    company_logo: org-a
+    location: United States
+    date_start: '2022-06-01'
+    date_end: '2022-08-31'
+    description: 
+      *	Mentored five high school students to increase their enthusiasm to research. They helped in one of my research projects by cleaning and preprocessing the data, and by implementing multiple machine and deep learning models
 
   - title: Team Lead / Senior Software QA Engineer
     company: EchoLogyx Ltd.
