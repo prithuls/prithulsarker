@@ -60,6 +60,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: icons
+    icon_pack: fas
+    link: https://linktr.ee/prithulsarker/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'prithulsarker@nevada.unr.edu'
