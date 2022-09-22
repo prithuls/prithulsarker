@@ -25,8 +25,7 @@ experience:
   - title: Research Assistant
     company: Human-machine Perception Lab, University of Nevada, Reno
     company_url: 'https://www.unr.edu/'
-    # company_logo: org-gc
-    company_logo: org-n
+    company_logo: org-x
     location: Nevada
     date_start: '2021-01-01'
     date_end: ''
@@ -40,7 +39,7 @@ experience:
   - title: Education Mentor
     company: Army Educational Outreach Program
     company_url: 'https://www.usaeop.com/'
-    company_logo: org-a
+    company_logo: org-x
     location: United States
     date_start: '2022-06-01'
     date_end: '2022-08-31'
@@ -50,7 +49,7 @@ experience:
   - title: Team Lead / Senior Software QA Engineer
     company: EchoLogyx Ltd.
     company_url: 'https://echologyx.com/'
-    company_logo: org-e
+    company_logo: org-x
     location: Dhaka, Bangladesh
     date_start: '2020-01-01'
     date_end: '2020-12-31'
