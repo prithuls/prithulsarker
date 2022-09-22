@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 
-    icon: brain-circuit
+    icon: circle-nodes
     icon_pack: fas
     name: Deep Learning & Machine Learning
   - description: 
