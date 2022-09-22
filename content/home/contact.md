@@ -22,35 +22,33 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: prithulsarker@nevada.unr.edu
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1664 N. Virginia St
+    city: Reno
+    region: NV
+    postcode: '89557'
     country: United States
     country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: WPEB 422
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday - Friday 10:00 to 18:00'
+  # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
+      icon_pack: fab
+      name: Reach Out
+      link: 'https://www.linkedin.com/in/prithulsarker/'
+    - icon: instagram
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://www.instagram.com/prithul_sarker'
 
 design:
   columns: '2'
