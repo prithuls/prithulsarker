@@ -69,5 +69,6 @@ highlight_name: true
 ---
 I am currently a second year Ph.D. Student in the department of computer science at the University of Nevada Reno. I completed my bachelor's degree in electrical and electronic engineering from Bangladesh University of Engineering and Technology. I also have more than three years of industry experience out of which I worked as team lead for last one year. Since my childhood, I have been good with numbers. I enjoy solving problems and am confident at analyzing data. I took an interest in computer programming when I started to learn Visual Basic using CD instructions in windows XP back in 2006. To this day, whenever I have time, I try to solve analytical math problems as well as algorithm and coding problems from competitive programming sites.
 
+{{< icon name="code" pack="fas" >}} My Leetcode, Kaggle and HackerRank profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
