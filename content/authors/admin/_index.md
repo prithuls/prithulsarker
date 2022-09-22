@@ -75,3 +75,5 @@ I am currently a second year Ph.D. Student in the department of computer science
 {{< icon name="code" pack="fas" >}} My {{< staticref "https://leetcode.com/prithuls/" "newtab" >}}LeetCode{{< /staticref >}}, {{< staticref "https://www.hackerrank.com/prithuls" "newtab" >}}HackerRank{{< /staticref >}} and {{< staticref "https://www.kaggle.com/prithuls/" "newtab" >}}Kaggle{{< /staticref >}} profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="message" pack="far" >}} {{< staticref "https://linktr.ee/prithulsarker/" "newtab" >}}Connect with me{{< /staticref >}}!
