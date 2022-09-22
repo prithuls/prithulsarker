@@ -46,12 +46,11 @@ experience:
         *	Mentored five high school students to increase their enthusiasm to research. They helped in one of my research projects by cleaning and preprocessing the data, and by implementing multiple machine and deep learning models
 
   - title: Team Lead / Senior Software QA Engineer
-    title: Software QA Engineer
     company: EchoLogyx Ltd.
     company_url: 'https://echologyx.com/'
     company_logo: org-x
     location: Dhaka, Bangladesh
-    date_start: '2020-06-01'
+    date_start: '2020-01-01'
     date_end: '2020-12-31'
     description: |2-
         *	Led the QA team in client meetings and created a positive and strong relationship with the clients
@@ -59,6 +58,14 @@ experience:
         *	Designed and wrote script for QA automation
         *	Assessed client requirements and ensured those are met
         *	Scraped data from the client website and listed essential information
+
+  - title: Software QA Engineer
+    company: EchoLogyx Ltd.
+    company_url: 'https://echologyx.com/'
+    company_logo: org-x
+    location: Dhaka, Bangladesh
+    date_start: '2019-06-01'
+    date_end: '2019-12-31'
 
 
 design:
