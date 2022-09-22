@@ -36,7 +36,7 @@ abstract: Deep learning has made a breakthrough in medical image segmentation in
 # Summary. An optional shortened abstract.
 summary: There are certain U-Net design modifications, such as MultiResUNet, Connected-UNets and AU-Net, that have improved overall performance in areas where the conventional U-Net architecture appears to be deficient. Following the success of UNet and its variants, we have presented two enhanced versions of the Connected-UNets architecture: ConnectedUNets+ and ConnectedUNets++.
 
-tags: []
+tags: [Convolutional Neural Network, Mammogram, Semantic Segmentation, U-Net, ConnectedU-Nets, MultiResUNet]
 
 # Display this page in the Featured widget?
 featured: true
@@ -67,15 +67,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 # {{% callout note %}}
