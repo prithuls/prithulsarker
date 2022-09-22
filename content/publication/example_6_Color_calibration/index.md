@@ -27,8 +27,8 @@ publishDate: '2022-08-23T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Optica Fall Vision Meeting*
-publication_short: In *Optica*
+publication: In *Optics Express*
+publication_short: In *Optics Express*
 
 abstract: "To be updated"
 
