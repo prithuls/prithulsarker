@@ -28,13 +28,13 @@ publishDate: '2022-08-23T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Symposium on Visual Computing*
+publication_short: In *ISVC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Deep learning has made a breakthrough in medical image segmentation in recent years due to its ability to extract high-level features without the need for prior knowledge. In this context, UNet is one of the most advanced medical image segmentation models, with promising results in mammography. Despite its excellent overall performance in segmenting multimodal medical images, the traditional U-Net structure appears to be inadequate in various ways. There are certain U-Net design modifications, such as MultiResUNet, Connected-UNets and AU-Net, that have improved overall performance in areas where the conventional U-Net architecture appears to be deficient. Following the success of UNet and its variants, we have presented two enhanced versions of the Connected-UNets architecture: ConnectedUNets+ and ConnectedUNets++. In ConnectedUNets+, we have replaced the simple skip connections of Connected-UNets architecture with residual skip connections, while in ConnectedUNets++, we have modified the encoder decoder structure along with employing residual skip connections. We have evaluated our proposed architectures on two publicly available datasets, the Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM) and INbreast.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: There are certain U-Net design modifications, such as MultiResUNet, Connected-UNets and AU-Net, that have improved overall performance in areas where the conventional U-Net architecture appears to be deficient. Following the success of UNet and its variants, we have presented two enhanced versions of the Connected-UNets architecture: ConnectedUNets+ and ConnectedUNets++.
 
 tags: []
 
