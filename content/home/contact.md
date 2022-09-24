@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: prithulsarker@nevada.unr.edu
+  email: prithulsarker [at] nevada [dot] unr [dot] edu
   address:
     street: 1664 N. Virginia St
     city: Reno
