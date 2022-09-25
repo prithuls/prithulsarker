@@ -25,31 +25,55 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/1kOipH0rLrYZKu0Q3kjLIJV6MfSf44QzA/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-09-02'
+    description: 'New York I-Corps Hub'
+    organization: National Science Foundation (NSF)
+    organization_url: https://beta.nsf.gov/funding/initiatives/i-corps
+    title: NSF Innovation Corps Teams Program
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/CS7TWQXUVHKS
+    date_end: ''
+    date_start: '2020-10-01'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: https://www.coursera.org/
+    title: Deep Learning Specialization
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/ML2DQEFD6HRV
+    date_end: ''
+    date_start: '2020-06-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org/
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://www.citiprogram.org/verify/?w4c07ba03-0807-4748-8346-ab595016efaf-44300131
+    date_end: '2025-08-01'
+    date_start: '2021-08-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: CITI Program
+    organization_url: https://about.citiprogram.org/
+    title: Group 1 Social Behavioral Research Investigators and Key Personnel Group.
     url: ''
-
+  - certificate_url: http://ude.my/UC-LIW5VD9I
+    date_end: ''
+    date_start: '2021-05-19'
+    description: ''
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    title: Learn R for Business Analytics
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1-VBxEoobMjapYqqvT_IIThroyOWywhLr/view?usp=sharing
+    date_end: ''
+    date_start: '2021-06-01'
+    description: ''
+    organization: National Science Foundation
+    organization_url: https://beta.nsf.gov/funding/initiatives/i-corps
+    title: Customer Discovery Training Confirmation - Bay Area Regional I-Corps Node - UC Berkeley
+    url: ''
+    
 design:
   columns: '2'
 ---
