@@ -33,7 +33,6 @@ experience:
         *	Led my own research, implemented an ophthalmic assessment in virtual reality, collected control and patient data, analyzed data to predict and quantify defect in participants.
         *	Collaborated and coordinated with Neuromechanics Lab on detection of concussion.
         *	Assembled electrical components, programmed, and implemented an ophthalmic assessment using Arduino and Pupil Core (from Pupil Labs).
-
   - title: Education Mentor
     company: Army Educational Outreach Program
     company_url: 'https://www.usaeop.com/'
@@ -43,7 +42,6 @@ experience:
     date_end: '2022-08-31'
     description: |2-
         *	Mentored five high school students to increase their enthusiasm to research. They helped in one of my research projects by cleaning and preprocessing the data, and by implementing multiple machine and deep learning models
-
   - title: Team Lead / Senior Software QA Engineer
     company: EchoLogyx Ltd.
     company_url: 'https://echologyx.com/'
@@ -57,7 +55,6 @@ experience:
         *	Designed and wrote script for QA automation
         *	Assessed client requirements and ensured those are met
         *	Scraped data from the client website and listed essential information
-
   - title: Software QA Engineer
     company: EchoLogyx Ltd.
     company_url: 'https://echologyx.com/'
@@ -65,7 +62,6 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2019-06-01'
     date_end: '2019-12-31'
-    
   - title: Product Officer
     company: Loence Solution
     company_url: 'https://echologyx.com/'
@@ -77,7 +73,6 @@ experience:
         *	Researched local and international ERP market and assessed competition by comparing products
         *	Analyzed client needs and drove new product development
         *	Led cross-functional teams
-
   - title: Assistant Engineer (Electrical)
     company: Energypac Engineering Ltd.
     company_url: 'https://energypac.com.bd/'
@@ -89,9 +84,6 @@ experience:
         *	On and off-site client support
         *	Carried out test procedures ensuring that substation equipment works to its specification
         *	Investigated issues, and troubleshot faults in the electrical system of transformers and other safety equipment
-
-
-
 
 design:
   columns: '1'
