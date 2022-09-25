@@ -75,5 +75,5 @@ item:
     url: ''
     
 design:
-  columns: '4'
+  columns: '1'
 ---
