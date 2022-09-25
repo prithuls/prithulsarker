@@ -6,7 +6,7 @@ title: Prithul Sarker
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Computer Science Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
