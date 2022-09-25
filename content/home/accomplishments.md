@@ -28,10 +28,10 @@ item:
   - certificate_url: https://drive.google.com/file/d/1kOipH0rLrYZKu0Q3kjLIJV6MfSf44QzA/view?usp=sharing
     date_end: ''
     date_start: '2022-09-02'
-    description: 'New York I-Corps Hub'
+    description: ''
     organization: National Science Foundation (NSF)
     organization_url: https://beta.nsf.gov/funding/initiatives/i-corps
-    title: NSF Innovation Corps Teams Program
+    title: NSF Innovation Corps Teams National Program - New York Hub
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/CS7TWQXUVHKS
     date_end: ''
