@@ -77,3 +77,5 @@ I am currently a second year Ph.D. Student in the department of computer science
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="message" pack="far" >}} {{< staticref "https://linktr.ee/prithulsarker/" "newtab" >}}Connect with me{{< /staticref >}}!
+
+{{< icon name="code-commit" pack="far" >}} {{< staticref "https://honzaap.github.io/GithubCity/?name=prithuls&year=2022" "newtab" >}}Visualize my commits on Github in 2022{{< /staticref >}}!
