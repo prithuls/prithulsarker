@@ -31,6 +31,8 @@ experience:
     date_end: ''
     description: |2-
         *	Led my own research, implemented an ophthalmic assessment in virtual reality, collected control and patient data, analyzed data to predict and quantify defect in participants.
+        *	Participated in NSF I-Corps national program with our research technology and was awarded $50,000 for customer discovery process.
+        *	Developed a novel deep learning architecture to segment mass from full mammographic image. The architecture currently beats any other known architecture in terms of dice and Jaccard score.
         *	Collaborated and coordinated with Neuromechanics Lab on detection of concussion.
         *	Assembled electrical components, programmed, and implemented an ophthalmic assessment using Arduino and Pupil Core (from Pupil Labs).
   - title: Education Mentor
