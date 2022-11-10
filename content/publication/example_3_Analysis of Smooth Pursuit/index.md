@@ -44,9 +44,9 @@ tags: ["Concussion", "VOMS", "Smooth Pursuit", "Virtual Reality", "LSTM"]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2210.11238
 
 url_pdf: ''
 url_code: ''
