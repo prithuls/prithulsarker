@@ -41,9 +41,9 @@ tags: ["Virtual Reality", "HTC Vive Pro", "FOVE 0", "Swinging Flashlight Test", 
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv 
+  url: https://arxiv.org/abs/2210.06474
 
 url_pdf: ''
 url_code: ''
