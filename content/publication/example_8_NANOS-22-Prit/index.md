@@ -1,5 +1,5 @@
 ---
-title: 'Investigating the Pathogenesis of Spaceflight Associated Neuro-ocular Syndrome with Head-mounted Visualization Engineering of Pupil Reactivityy'
+title: 'Investigating the Pathogenesis of Spaceflight Associated Neuro-ocular Syndrome with Head-mounted Visualization Engineering of Pupil Reactivity'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
