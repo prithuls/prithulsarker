@@ -42,9 +42,9 @@ tags: ["Convolutional Neural Network", "Mammogram", "Semantic Segmentation", "U-
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2210.13668
 
 url_pdf: ''
 url_code: ''
