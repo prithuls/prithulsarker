@@ -29,6 +29,9 @@ education:
     - course: Ph.D. in Computer Science
       institution: University of Nevada, Reno
       year: 2021 - Present
+    - course: MS in Computer Science
+      institution: University of Nevada, Reno
+      year: 2021 - 2023
     - course: B.Sc. in Electrical & Electronic Engineering
       institution: Bangladesh University of Engineering and Technology
       year: 2013 - 2017
