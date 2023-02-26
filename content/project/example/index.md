@@ -15,11 +15,11 @@ external_link: 'https://github.com/TheDaemons/ChatGPT-CodeSnippet'
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart -->
 
-links:
+<!-- links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/georgecushen -->
 url_code: 'https://github.com/TheDaemons/ChatGPT-CodeSnippet'
 url_pdf: ''
 url_slides: ''
