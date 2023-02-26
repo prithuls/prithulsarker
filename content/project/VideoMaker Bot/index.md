@@ -23,7 +23,7 @@ external_link: 'https://www.youtube.com/shorts/JSPGFPiSg58'
 url_code: 'https://github.com/TheDaemons/VideoMaker-Bot'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/shorts/JSPGFPiSg58'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
