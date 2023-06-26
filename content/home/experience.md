@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Developer Intern
+    company: SGX3, Texas Advanced Computing Center, The University of Texas at Austin, Texas
+    company_url: 'https://sciencegateways.org/'
+    company_logo: org-x
+    location: Austin, Texas, United States
+    date_start: '2023-06-03'
+    date_end: '2023-08-05'
+    description: |2-
+        *	Packaged HPC applications into docker and singularity applications and making it compatible with AI framework.
+        *	Fixed issues for HPC applications, and updated user portal for easy access.
   - title: Research Assistant
     company: Human-machine Perception Lab, University of Nevada, Reno
     company_url: 'https://www.unr.edu/'
@@ -32,10 +42,10 @@ experience:
     description: |2-
         *	Led my own research, implemented an ophthalmic assessment in virtual reality, collected control and patient data, analyzed data to predict and quantify defect in participants.
         *	Participated in NSF I-Corps national program with our research technology and was awarded $50,000 for customer discovery process.
-        *	Developed a novel deep learning architecture to segment mass from full mammographic image. The architecture currently beats any other known architecture in terms of dice and Jaccard score.
+        *	Developed a novel deep learning architecture to segment mass from full mammographic image.
         *	Collaborated and coordinated with Neuromechanics Lab on detection of concussion.
         *	Assembled electrical components, programmed, and implemented an ophthalmic assessment using Arduino and Pupil Core (from Pupil Labs).
-  - title: Education Mentor
+  - title: Education Mentor Intern
     company: Army Educational Outreach Program
     company_url: 'https://www.usaeop.com/'
     company_logo: org-x
