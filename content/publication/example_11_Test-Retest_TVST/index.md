@@ -51,7 +51,7 @@ summary: "As variability among various VR devices is an important factor that cl
 tags: ["Test–Retest Reliability",  "Virtual Reality", "Relative Afferent Pupillary Defect", "AI in Healthcare"]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
