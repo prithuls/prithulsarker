@@ -43,7 +43,7 @@ summary: "Pupillometry using extended reality can serve as a promising non-invas
 tags: ["SANS", "Virtual Reality", "ICP"]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
