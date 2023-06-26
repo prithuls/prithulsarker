@@ -38,7 +38,7 @@ summary: "In order to eliminate the limitations of traditional swinging flashlig
 tags: ["Virtual Reality", "HTC Vive Pro", "FOVE 0", "Swinging Flashlight Test", "RAPD"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
