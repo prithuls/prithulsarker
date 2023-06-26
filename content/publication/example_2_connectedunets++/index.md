@@ -39,7 +39,7 @@ summary: "There are certain U-Net design modifications, such as MultiResUNet, Co
 tags: ["Convolutional Neural Network", "Mammogram", "Semantic Segmentation", "U-Net", "ConnectedU-Nets", "MultiResUNet"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
