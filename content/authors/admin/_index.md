@@ -18,7 +18,8 @@ bio: My research interests include computer vision, human-machine perception and
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Pupillometry in Extended Reality
+  - Artificial Intelligence in Healthcare
   - Computer Vision
   - Deep Learning
   - Virtual Reality
