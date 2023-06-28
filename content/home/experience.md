@@ -25,7 +25,7 @@ experience:
   - title: Software Developer Intern
     company: SGX3, Texas Advanced Computing Center, The University of Texas at Austin, Texas
     company_url: 'https://sciencegateways.org/'
-    company_logo: org-x
+    company_logo: logo-sgx3
     location: Austin, Texas, United States
     date_start: '2023-06-03'
     date_end: '2023-08-05'
@@ -35,7 +35,7 @@ experience:
   - title: Research Assistant
     company: Human-machine Perception Lab, University of Nevada, Reno
     company_url: 'https://www.unr.edu/'
-    company_logo: org-x
+    company_logo: logo-unr-wolf
     location: Nevada, United States
     date_start: '2021-01-01'
     date_end: ''
@@ -48,7 +48,7 @@ experience:
   - title: Education Mentor Intern
     company: Army Educational Outreach Program
     company_url: 'https://www.usaeop.com/'
-    company_logo: org-x
+    company_logo: logo-aeop
     location: United States
     date_start: '2022-06-01'
     date_end: '2022-08-31'
