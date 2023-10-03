@@ -14,7 +14,7 @@ organizations:
     url: https://www.unr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, human-machine perception and deep learning.
+bio: My research interests include time series analysis, human-machine perception, computer vision, and deep learning.
 
 # Interests to show in About widget
 interests:
@@ -74,7 +74,11 @@ email: 'prithulsarker@nevada.unr.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a third year Ph.D. Student in the department of computer science at the University of Nevada Reno. I completed my bachelor's degree in electrical and electronic engineering from Bangladesh University of Engineering and Technology. I also have more than three years of industry experience out of which I worked as team lead for last one year. Since my childhood, I have been good with numbers. I enjoy solving problems and am confident at analyzing data. I took an interest in computer programming when I started to learn Visual Basic in windows XP back in 2006. To this day, whenever I have time, I try to solve analytical math problems as well as algorithm and coding problems from competitive programming sites.
+I am currently a third-year Ph.D. student in computer science and engineering at the University of Nevada, Reno. My research primarily focuses on AI in healthcare, particularly pupillary function analysis using virtual reality-based eye tracking data to detect conditions like concussion, RAPD, and SANS. I've received a $50,000 award as part of the NSF I-Corps Program for this work. My dissertation proposal revolves around anomaly detection in assessment-based time series data using generative AI and diffusion models. I have a strong {{< staticref "https://scholar.google.com/citations?user=mGTORlYAAAAJ&hl=en" "newtab" >}}publication record{{< /staticref >}} in virtual reality, computer vision, machine learning, and deep learning. 
+
+In the summer of 2023, I interned as a Ph.D. software developer with SGX3 at the University of Texas at Austin, where I developed interactive applications for high-performance computing. I am an instructor of introductory Linux OS course for the Fall 2023 semester. In summer of 2021 and 2022, I worked as a mentor for Army Educational Outreach Program (AEOP). Before pursuing my Ph.D., I served as a team lead and senior software QA automation engineer, playing a key role in team growth and building lasting client and team relationships.
+
+I have always had a natural affinity for numbers and problem-solving, which led me to develop a strong interest in computer programming. My journey began with learning Visual Basic in Windows XP in 2006, and since then, I've continued to explore and enhance my skills. Analyzing data to solve complex problems, and tackling analytical math problems, as well as coding challenges on competitive programming platforms, remain my passions. 
 
 {{< icon name="code" pack="fas" >}} My {{< staticref "https://leetcode.com/prithuls/" "newtab" >}}LeetCode{{< /staticref >}}, {{< staticref "https://www.hackerrank.com/prithuls" "newtab" >}}HackerRank{{< /staticref >}} and {{< staticref "https://www.kaggle.com/prithuls/" "newtab" >}}Kaggle{{< /staticref >}} profile.
 
