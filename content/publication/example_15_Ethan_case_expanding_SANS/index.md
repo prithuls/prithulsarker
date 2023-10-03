@@ -51,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/case-for-expanding-visual-assessments-during-spaceflight/EC1625C4BE6DCD3511152AC711E4EB098'
+url_pdf: 'https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/case-for-expanding-visual-assessments-during-spaceflight/EC1625C4BE6DCD3511152AC711E4EB09'
 url_code: ''
 url_dataset: ''
 url_poster: ''
