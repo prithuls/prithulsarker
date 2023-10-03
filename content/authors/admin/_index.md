@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:prithulsarker@nevada.unr.edu
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=mGTORlYAAAAJ
   - icon: github
     icon_pack: fab
