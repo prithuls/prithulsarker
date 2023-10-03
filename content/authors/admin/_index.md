@@ -86,4 +86,6 @@ I have always had a natural affinity for numbers and problem-solving, which led 
 
 {{< icon name="message" pack="far" >}} {{< staticref "https://linktr.ee/prithulsarker/" "newtab" >}}Connect with me{{< /staticref >}}!
 
+{{< icon name="google-scholar" pack="ai" >}} For my most recent publications, kindly refer to my {{< staticref "https://scholar.google.com/citations?user=mGTORlYAAAAJ&hl=en" "newtab" >}}Google Scholar profile{{< /staticref >}}.
+
 {{< icon name="code-commit" pack="fas" >}} {{< staticref "https://honzaap.github.io/GithubCity/?name=prithuls&year=2022" "newtab" >}}Visualize my commits on Github in 2022{{< /staticref >}}!
