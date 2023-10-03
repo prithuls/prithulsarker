@@ -31,7 +31,7 @@ item:
     description: ''
     organization: National Science Foundation (NSF)
     organization_url: https://beta.nsf.gov/funding/initiatives/i-corps
-    title: NSF Innovation Corps Teams National Program - New York Hub
+    title: NSF Innovation Corps Teams National Program - New York Hub ($50,000 Awarded)
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/CS7TWQXUVHKS
     date_end: ''
