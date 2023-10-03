@@ -1,0 +1,83 @@
+---
+title: 'Apple Vision Pro for Ophthalmology and Medicine'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Mouayad Masalkhi
+  - Ethan Waisberg  
+  - Joshua Ong
+  - Nasif Zaman
+  - admin
+  - Andrew G. Lee 
+  - Alireza Tavakkoli
+
+
+# Author notes (optional)
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+
+date: '2023-01-02T00:00:00Z'
+doi: 'https://doi.org/10.1007/s10439-023-03283-1'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2023-01-02T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Nature Eye*
+publication_short: In *Nature Eye*
+
+abstract: The emergence of new technologies continues to break barriers and transform the way we perceive and interact with the world. In this scientific article, we explore the potential impact of the new Apple XR headset on revolutionizing accessibility for individuals with visual deficits. With its rumored exceptional 4-K displays per eye and 5000 nits of brightness, this headset has the potential to enhance the visual experience and provide a new level of accessibility for users with visual impairments. We delve into the technical specifications, discuss the implications for accessibility, and envision how this groundbreaking technology could open up new possibilities for individuals with visual deficits. 
+
+# Summary. An optional shortened abstract.
+summary: 
+
+tags: ["next generation ai", "deep learning", "ai in healthcare", "virtual reality"]
+
+# Display this page in the Featured widget?
+featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://link.springer.com/article/10.1007/s10439-023-03283-1'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+
