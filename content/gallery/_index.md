@@ -1,20 +1,4 @@
 ---
-title: Gallery
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header: 
-  caption: ''
-  image: ''
----
-
----
 title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
