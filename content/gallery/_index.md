@@ -7,7 +7,7 @@ cms_exclude: true
 #   3 = Card
 # type: landing
 
-view: 2
+# view: 2
 # Optional header image (relative to `static/media/` folder).
 # header: 
 # caption: ''
