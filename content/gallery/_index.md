@@ -1,6 +1,6 @@
 ---
 title: Gallery
-cms_exclude: true
+# cms_exclude: true
 # View.
 #   1 = List
 #   2 = Compact
@@ -9,9 +9,9 @@ type: landing
 
 view: 2
 # Optional header image (relative to `static/media/` folder).
-header: 
-  caption: ''
-  image: ''
+# header: 
+# caption: ''
+# image: ''
 sections:
   - block: markdown
       content:
