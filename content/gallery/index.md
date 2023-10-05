@@ -13,3 +13,5 @@ header:
 ---
 
 ## Test
+
+{{< gallery album="conferences" >}} Images
