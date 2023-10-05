@@ -1,3 +1,6 @@
+
+type: widget_page
+
 ---
 title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -8,7 +11,6 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 # Link this post with a project
 projects: []
 
-active: true
 
 # Date published
 date: '2020-12-13T00:00:00Z'
