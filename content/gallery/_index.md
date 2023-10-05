@@ -25,5 +25,5 @@ view: 2
 
 ## Test
 
-![Image 1](/conferences/IMG_8820.JPG)
+![Image 1](assets/media/albums/conferences/IMG_8820.JPG)
 
