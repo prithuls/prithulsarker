@@ -14,4 +14,11 @@ header:
 
 ## Test
 
-{{< gallery album="conferences" >}} Images
+- block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="conferences" >}}
+    design:
+      columns: '1'
