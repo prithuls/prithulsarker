@@ -25,5 +25,7 @@ view: 2
 
 ## Test
 
+<img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX" width="200"/>
+
 ![Image 1](./conferences/IMG_8820.JPG)
 
