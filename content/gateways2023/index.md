@@ -61,9 +61,6 @@ This approach ensures the isolation and encapsulation of the application within 
 
 •	Once authenticated, users can engage with the application's interface, features, and functionalities as if it were a native application running on their local machine. 
 
-This methodology not only optimizes user engagement by eliminating unnecessary navigation steps, but also provides a secure and controlled environment for interacting with the application. By removing obstacles and simplifying the entry into the remote session, researchers can focus on their work without being distracted by complicated technical details. This encourages a quicker and more organized use of the application through the portal.
-
 <img src="./images/napari-3.png" alt="Interactive Jobs i.e. Napari app image - 3" width="800"/>
 
-
-
+This methodology not only optimizes user engagement by eliminating unnecessary navigation steps, but also provides a secure and controlled environment for interacting with the application. By removing obstacles and simplifying the entry into the remote session, researchers can focus on their work without being distracted by complicated technical details. This encourages a quicker and more organized use of the application through the portal.
