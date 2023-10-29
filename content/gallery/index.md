@@ -29,10 +29,10 @@ cms_exclude: true
 
 Our system is now up and running in Galveston, TX for the IRB approved human study.
 
-<img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX" width="400"/>
+<img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
 
-<img src="./conferences/IMG_7186.HEIC" alt="Woman getting VR Assessment in Galveston, TX" width="400"/>
+<img src="./conferences/IMG_7186.HEIC" alt="Woman getting VR Assessment in Galveston, TX 2" width="400"/>
 
 <img src="./conferences/IMG_8538.HEIC" alt="Woman getting VR Assessment in Galveston, TX" width="400"/>
 
