@@ -31,8 +31,7 @@ cms_exclude: true
 <img src="./images/interactivejobs.jpg" alt="Interactive Jobs Image" width="1200"/>
 <img src="./images/napariapp.gif" alt="Interactive Jobs i.e. Napari app GIF" width="800"/>
 
-https://github.com/prithuls/prithulsarker/blob/main/content/gateways2023/images/napari_app_2.mp4
-
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/0IICbB3dVvk)
 
 
 ### Abstract:
