@@ -50,7 +50,7 @@ To tackle the challenge of setting up interactive sessions through the TAPIS fra
 
 •	The subsequent stage of the multi-stage Docker build is dedicated to executing the desired application. This is achieved by deploying the application within its own customized docker image, built upon the previously established interactive base. By layering the application-specific docker image onto the interactive base, researchers can integrate their intended application into the interactive environment.
 
-<img src="./images/napari-2.png" alt="Interactive Jobs i.e. Napari app image - 2" width="800"/>
+<img src="./images/Matlab_updated.drawio.png" alt="Interactive Jobs i.e. Matlab Image" width="800"/>
 
 This approach ensures the isolation and encapsulation of the application within its containerized environment, avoiding conflicts or interference with the underlying interactive session. To access this application, users engage with portals which are designed to optimize accessibility and efficiency. Below are the instructions to initiate the application:
 •	To initiate the process, users navigate through the application list on the portal, select their desired application, and provide necessary parameters to configure the job according to their needs and objectives.
@@ -64,3 +64,5 @@ This approach ensures the isolation and encapsulation of the application within 
 <img src="./images/napari-3.png" alt="Interactive Jobs i.e. Napari app image - 3" width="800"/>
 
 This methodology not only optimizes user engagement by eliminating unnecessary navigation steps, but also provides a secure and controlled environment for interacting with the application. By removing obstacles and simplifying the entry into the remote session, researchers can focus on their work without being distracted by complicated technical details. This encourages a quicker and more organized use of the application through the portal.
+
+<img src="./images/napari-2.png" alt="Interactive Jobs i.e. Napari app image - 2" width="800"/>
