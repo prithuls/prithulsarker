@@ -34,7 +34,7 @@ cms_exclude: true
 <img src="./images/napariapp.gif" alt="Interactive Jobs i.e. Napari app GIF" width="800"/>
 -->
 
-[![Watch the video](./images/napariapp.gif)](https://youtu.be/0IICbB3dVvk)
+[![Watch the video](./images/napariapp.gif)](https://youtu.be/XhT_jMWnBXU)
 
 
 ### Abstract:
