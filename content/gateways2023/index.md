@@ -1,5 +1,5 @@
 ---
-title: gateways2023
+title: Gateways 2023
 cms_exclude: true
 # View.
 #   1 = List
@@ -23,7 +23,6 @@ cms_exclude: true
 #        columns: '1'
 ---
 
-## Bring Your Own Portal Name
 ## Interactive Remote Jobs in Cluster Computing: Practical Methods and Access via User-Friendly Portals
 ### Team: Prit Sarker, Sal Tijerina, Tracy Brown, Alireza Tavakkoli
 
