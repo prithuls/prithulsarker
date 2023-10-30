@@ -53,6 +53,7 @@ To tackle the challenge of setting up interactive sessions through the TAPIS fra
 <img src="./images/Matlab_updated.drawio.png" alt="Interactive Jobs i.e. Matlab Image" width="800"/>
 
 This approach ensures the isolation and encapsulation of the application within its containerized environment, avoiding conflicts or interference with the underlying interactive session. To access this application, users engage with portals which are designed to optimize accessibility and efficiency. Below are the instructions to initiate the application:
+
 •	To initiate the process, users navigate through the application list on the portal, select their desired application, and provide necessary parameters to configure the job according to their needs and objectives.
 
 •	Upon submission of the job, the application commences its execution within the computing environment, making an additional button available. This feature streamlines the transition from job submission to active interaction,
