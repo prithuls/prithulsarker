@@ -1,5 +1,5 @@
 ---
-title: Interactive Remote Jobs in Cluster Computing: Practical Methods and Access via User-Friendly Portals
+title: Interactive Remote Jobs in Cluster Computing- Practical Methods and Access via User-Friendly Portals
 cms_exclude: true
 # View.
 #   1 = List
