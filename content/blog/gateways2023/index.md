@@ -28,9 +28,9 @@ cms_exclude: true
 
 
 
+<!---
 <img src="./images/interactivejobs.jpg" alt="Interactive Jobs Image" width="1200"/>
 
-<!---
 <img src="./images/napariapp.gif" alt="Interactive Jobs i.e. Napari app GIF" width="800"/>
 -->
 
