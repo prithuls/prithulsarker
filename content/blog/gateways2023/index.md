@@ -1,5 +1,5 @@
 ---
-title: Gateways 2023
+title: Interactive Remote Jobs in Cluster Computing: Practical Methods and Access via User-Friendly Portals
 cms_exclude: true
 # View.
 #   1 = List
@@ -23,8 +23,7 @@ cms_exclude: true
 #        columns: '1'
 ---
 
-## Interactive Remote Jobs in Cluster Computing: Practical Methods and Access via User-Friendly Portals
-### Team: Prit Sarker, Sal Tijerina, Tracy Brown, Alireza Tavakkoli
+### Author: Prit Sarker, Sal Tijerina, Tracy Brown, Alireza Tavakkoli
 
 
 
