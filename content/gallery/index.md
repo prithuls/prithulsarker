@@ -38,11 +38,11 @@ Our system is now up and running in Galveston, TX for the IRB approved human stu
 
 
 
-### June, 2018: Started new job at Loence Solution
+__June, 2018__: Started new job at Loence Solution
 
-### February, 2018: Started MBA at Institute of Business Administration, University of Dhaka
+__February, 2018__: Started MBA at Institute of Business Administration, University of Dhaka
 
-### 14 Novemver, 2017: Started new job at Energypac Engineering Ltd. (Testing and Commissioning Dept) as Assistant Engineer 
+__14 Novemver, 2017__: Started new job at Energypac Engineering Ltd. (Testing and Commissioning Dept) as Assistant Engineer 
 
-### 13 September, 2017: Completed bachelor degree from Bangladesh University of Engineering and Tecnology in Electrical and Electronic Engineering
+__13 September, 2017__: Completed bachelor degree from Bangladesh University of Engineering and Tecnology in Electrical and Electronic Engineering
 
