@@ -36,9 +36,15 @@ Our system is now up and running in Galveston, TX for the IRB approved human stu
 
 <img src="./conferences/IMG_8538.HEIC" alt="Woman getting VR Assessment in Galveston, TX" width="400"/>
 
+__01 January, 2021__: Started Ph.D. program in computer science at the University of Nevada, Reno
 
+__31 December, 2020__: Left job at EchoLogyx Ltd.
 
-__June, 2018__: Started new job at Loence Solution
+__01 January, 2020__: Promoted to Team Lead / Senior Software QA Engineer 
+
+__10 June, 2019__: New job at EchoLogyx Ltd. as Software QA Engineer
+
+__June, 2018__: New job at Loence Solution as Product Officer
 
 __February, 2018__: Started MBA at Institute of Business Administration, University of Dhaka
 
