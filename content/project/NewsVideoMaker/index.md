@@ -1,6 +1,6 @@
 ---
 title: Bengali News Video Maker Bot
-summary: A bot that makes video in Bengali from News posts from Google news using Google voice and uploads in YouTube
+summary: An automated system designed to create Bengali-language videos by extracting content from Google News articles, utilizing Google Voice for narration, and uploading the generated videos to YouTube
 tags:
   - Python
   - Selenium
