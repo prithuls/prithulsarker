@@ -9,7 +9,7 @@ tags:
 date: '2023-02-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.youtube.com/shorts/JSPGFPiSg58'
+external_link: 'https://youtube.com/shorts/k8v8P6dMVdM'
 
 <!-- image:
   caption: Photo by rawpixel on Unsplash
