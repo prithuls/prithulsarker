@@ -1,5 +1,5 @@
 ---
-title: Bengali Video Maker Bot
+title: Social Media (Facebook) Bengali Video Maker Bot
 summary: A bot that makes video in Bengali from Facebook posts using google voice and uploads in social media
 tags:
   - Python
