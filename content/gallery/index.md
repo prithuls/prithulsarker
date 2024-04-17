@@ -24,11 +24,16 @@ cms_exclude: true
 ---
 
 
+
 __04 May, 2023__: VR-SFT RAPD Assessment in Galveston, TX
 
 Our system is now up and running in Galveston, TX for the IRB approved human study.
 
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
+
+__01 May, 2023__: Successfully defended my masters thesis and completed M.S. degree.
+
+__07 March, 2023__: Presented poster on VR-based system for spaceflight associated neuro-ocular syndrome in North American Neuro-Ophthalmology Society annual meeting in Orlando, Florida.
 
 __03 October, 2022__: Presented our research papers in International Symposium on Visual Computing conference in San Diego, California.
 
