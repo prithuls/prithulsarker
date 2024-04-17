@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://nevada.app.box.com/v/GSAAwardsCommitteePublicFolder/file/1493379537050
+    date_end: ''
+    date_start: '2022-09-02'
+    description: ''
+    organization: University of Nevada, Reno & Graduate Student Association
+    organization_url: https://www.unr.edu/gsa
+    title: Spring Award for Outstanding International Graduate Student Scholarship
+    url: ''
   - certificate_url: https://drive.google.com/file/d/1kOipH0rLrYZKu0Q3kjLIJV6MfSf44QzA/view?usp=sharing
     date_end: ''
     date_start: '2022-09-02'
