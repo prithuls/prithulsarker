@@ -35,9 +35,7 @@ __16 October, 2023__: Attended International Symposium on Visual Computing confe
 
 __03 June, 2023__: Started a summer internship position for SGX3 at Texas Advanced Computing Center, The University of Texas at Austin, Texas
 
-__04 May, 2023__: VR-SFT RAPD Assessment in Galveston, Texas
-
-Our system is now up and running in Galveston, TX for the IRB approved human study.
+__04 May, 2023__: Our VR-SFT RAPD Assessment system is now up and running in University of Texas Medical Branch at Galveston, Texas for the IRB approved human study
 
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
