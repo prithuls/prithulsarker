@@ -23,9 +23,9 @@ cms_exclude: true
 #        columns: '1'
 ---
 
+__03 June, 2024__: Started an internship position for SGX3 at Texas Advanced Computing Center, The University of Texas at Austin, Texas
 
-
-__04 May, 2023__: VR-SFT RAPD Assessment in Galveston, TX
+__04 May, 2023__: VR-SFT RAPD Assessment in Galveston, Texas
 
 Our system is now up and running in Galveston, TX for the IRB approved human study.
 
