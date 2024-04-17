@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2022-09-02'
+    date_start: '2024-04-01'
     description: ''
     organization: University of Nevada, Reno & Graduate Student Association
     organization_url: https://www.unr.edu/gsa
