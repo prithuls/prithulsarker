@@ -1,6 +1,6 @@
 ---
 title: Publications
-cms_exclude: false
+cms_exclude: true
 type: widget_page
 
 # View.
