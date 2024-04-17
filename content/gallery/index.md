@@ -23,7 +23,6 @@ cms_exclude: true
 #        columns: '1'
 ---
 
-## Test
 
 ### 04 May, 2023: VR-SFT RAPD Assessment in Galveston, TX
 
@@ -31,10 +30,11 @@ Our system is now up and running in Galveston, TX for the IRB approved human stu
 
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
+__15 July, 2022__: Awarded
 
-<img src="./conferences/IMG_7186.HEIC" alt="Woman getting VR Assessment in Galveston, TX 2" width="400"/>
+__01 June, 2022__: Returned as Education Mentor for Army Educational Outreach Program (AEOP) for summer 2022
 
-<img src="./conferences/IMG_8538.HEIC" alt="Woman getting VR Assessment in Galveston, TX" width="400"/>
+__01 June, 2021__: Started a new position as Education Mentor for Army Educational Outreach Program (AEOP) for summer 2021
 
 __01 January, 2021__: Started Ph.D. program in computer science at the University of Nevada, Reno
 
