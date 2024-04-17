@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:prithulsarker@nevada.unr.edu
+    link: mailto:prithuls@unr.edu
   - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=mGTORlYAAAAJ
@@ -88,4 +88,4 @@ I have always had a natural affinity for numbers and problem-solving, which led 
 
 {{< icon name="google-scholar" pack="ai" >}} For most recent publications, kindly refer to my {{< staticref "https://scholar.google.com/citations?user=mGTORlYAAAAJ&hl=en" "newtab" >}}Google Scholar profile{{< /staticref >}}.
 
-{{< icon name="code-commit" pack="fas" >}} {{< staticref "https://honzaap.github.io/GithubCity/?name=prithuls&year=2022" "newtab" >}}Visualize my commits on Github in 2022{{< /staticref >}}!
+{{< icon name="code-commit" pack="fas" >}} {{< staticref "https://honzaap.github.io/GithubCity/?name=prithuls&year=2023" "newtab" >}}Visualize my commits on Github in 2023{{< /staticref >}}!
