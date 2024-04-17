@@ -24,7 +24,7 @@ cms_exclude: true
 ---
 
 
-### 04 May, 2023: VR-SFT RAPD Assessment in Galveston, TX
+__04 May, 2023__: VR-SFT RAPD Assessment in Galveston, TX
 
 Our system is now up and running in Galveston, TX for the IRB approved human study.
 
