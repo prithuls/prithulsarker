@@ -25,6 +25,8 @@ cms_exclude: true
 
 __07 March, 2024__: Accepted a summer internship offer at Google Research- Health AI
 
+__02 February, 2024__: Our paper on mammogram classification with multi-view swin transformer (MV-Swin-T) has been accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2024.
+
 __28 November, 2023__: Successfully defended my Ph.D. proposal in front of committee members. Now I am a Ph.D. candidate!
 
 __08 November, 2023__: Set up our VR-SFT system in Houston Methodist Eye Associates, Texas
@@ -35,7 +37,7 @@ __16 October, 2023__: Attended International Symposium on Visual Computing confe
 
 __03 June, 2023__: Started a summer internship position for SGX3 at Texas Advanced Computing Center, The University of Texas at Austin, Texas
 
-__04 May, 2023__: Our VR-SFT RAPD Assessment system is now up and running in University of Texas Medical Branch at Galveston, Texas for the IRB approved human study
+__04 May, 2023__: Our VR-SFT RAPD assessment system is now up and running in University of Texas Medical Branch at Galveston, Texas for the IRB approved human study
 
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
