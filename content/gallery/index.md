@@ -30,7 +30,15 @@ Our system is now up and running in Galveston, TX for the IRB approved human stu
 
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
-__15 July, 2022__: Awarded
+__03 October, 2022__: Presented our research papers in International Symposium on Visual Computing conference in San Diego, California.
+
+__29 September, 2022__: Attended annual meeting of American Academy of Ophthalmology (AAO) in Chicago, Illinois.
+
+__02 September, 2022__: Successfully completed National I-Corps program.
+
+__10 August, 2022__: Attended 24th International Visual Field & Imaging Symposium at Berkeley, California.
+
+__15 July, 2022__: Began National I-Corps program (New York) and was awarded $50,000 by National Science Foundation for our research
 
 __01 June, 2022__: Returned as Education Mentor for Army Educational Outreach Program (AEOP) for summer 2022
 
