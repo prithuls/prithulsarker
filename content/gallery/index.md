@@ -37,6 +37,8 @@ __30 October, 2023__: Presented my internship works at Science Gateways 2023 Ann
 
 __16 October, 2023__: Attended International Symposium on Visual Computing conference as a volunteer at Lake Tahoe, Nevada
 
+__15 June, 2023__: Our paper on "Extended reality quantification of pupil reactivity as a non-invasive assessment for the pathogenesis of spaceflight associated neuro-ocular syndrome" has been accepted in Life Sciences in Space Research (LSSR) journal.
+
 __03 June, 2023__: Started a summer internship position for SGX3 at Texas Advanced Computing Center, The University of Texas at Austin, Texas
 
 __04 May, 2023__: Our VR-SFT RAPD assessment system is now up and running in University of Texas Medical Branch at Galveston, Texas for the IRB approved human study
@@ -45,7 +47,7 @@ __04 May, 2023__: Our VR-SFT RAPD assessment system is now up and running in Uni
 
 __01 May, 2023__: Successfully defended my masters thesis and completed M.S. degree
 
-__27 April, 2023__: Our paper on "Test-retest Reliability of Virtual Reality Devices in Quantifying for Relative Afferent Pupillary Defect" has been accepted in translational vision science & technology (TVST) journal.
+__27 April, 2023__: Our paper on "Test-retest Reliability of Virtual Reality Devices in Quantifying for Relative Afferent Pupillary Defect" has been accepted in Translational Vision Science & Technology (TVST) journal.
 
 __07 March, 2023__: Presented poster on VR-based system for spaceflight associated neuro-ocular syndrome in North American Neuro-Ophthalmology Society annual meeting in Orlando, Florida
 
