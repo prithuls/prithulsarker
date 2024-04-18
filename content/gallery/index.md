@@ -23,6 +23,8 @@ cms_exclude: true
 #        columns: '1'
 ---
 
+__03 April, 2024__: Received Outstanding International Graduate Student Scholarship from GSA Spring Awards at University of Nevada, Reno
+
 __07 March, 2024__: Accepted a summer internship offer at Google Research- Health AI
 
 __02 February, 2024__: Our paper on mammogram classification with multi-view swin transformer (MV-Swin-T) has been accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2024.
@@ -42,6 +44,8 @@ __04 May, 2023__: Our VR-SFT RAPD assessment system is now up and running in Uni
 <img src="./conferences/IMG_8820.JPG" alt="Woman getting VR Assessment in Galveston, TX 1" width="400"/>
 
 __01 May, 2023__: Successfully defended my masters thesis and completed M.S. degree
+
+__27 April, 2023__: Our paper on "Test-retest Reliability of Virtual Reality Devices in Quantifying for Relative Afferent Pupillary Defect" has been accepted in translational vision science & technology (TVST) journal.
 
 __07 March, 2023__: Presented poster on VR-based system for spaceflight associated neuro-ocular syndrome in North American Neuro-Ophthalmology Society annual meeting in Orlando, Florida
 
