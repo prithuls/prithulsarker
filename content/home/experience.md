@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Software Engineer Intern
+    company: Google Research
+    company_url: 'https://google.com'
+    company_logo: logo-google
+    location: Mountain View, California, United States.
+    date_start: '2024-05-28'
+    date_end: '2024-08-23'
+    description: |2-
+        * Temporal modeling of geo-spatial data to predict disease progression.
   - title: Software Developer Intern
     company: SGX3, Texas Advanced Computing Center, The University of Texas at Austin, Texas
     company_url: 'https://sciencegateways.org/'
