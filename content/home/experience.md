@@ -30,7 +30,7 @@ experience:
     date_start: '2024-05-28'
     date_end: '2024-08-23'
     description: |2-
-        * Temporal modeling of geo-spatial data to predict disease progression.
+        * Temporal modeling of geospatial data to predict disease progression.
   - title: Software Developer Intern
     company: SGX3, Texas Advanced Computing Center, The University of Texas at Austin, Texas
     company_url: 'https://sciencegateways.org/'
