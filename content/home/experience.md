@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Software Engineer Intern
     company: Google Research (Health AI)
-    company_url: 'https://google.com'
+    company_url: 'https://research.google/'
     company_logo: logo-google
     location: Mountain View, California, United States.
     date_start: '2024-05-28'
