@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD Software Engineer Intern
-    company: Google Research
+    company: Google Research (Health AI)
     company_url: 'https://google.com'
     company_logo: logo-google
     location: Mountain View, California, United States.
