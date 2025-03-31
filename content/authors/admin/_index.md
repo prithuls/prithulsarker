@@ -6,12 +6,12 @@ title: Prithul Sarker
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Ph.D. Candidate
+role: Software Engineer, Google
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Nevada, Reno
-    url: https://www.unr.edu/
+  - name: Google
+    url: https://www.google.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include time series analysis, human-machine perception, computer vision, and deep learning.
@@ -29,7 +29,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Nevada, Reno
-      year: 2021 - Present
+      year: 2021 - 2024
     - course: MS in Computer Science
       institution: University of Nevada, Reno
       year: 2021 - 2023
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:prithuls@unr.edu
+    link: mailto:prithul.sarker@gmail.com
   - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=kl3_YggAAAAJ
