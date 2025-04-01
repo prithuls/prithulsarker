@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Google
+    company_url: 'https://www.google.com/'
+    company_logo: logo-google
+    location: Mountain View, California, United States.
+    date_start: '2025-01-06'
+    date_end: ''
+    description: |2-
+        * Machine learning aspects of recommendation system at Google Search.
   - title: PhD Software Engineer Intern
     company: Google Research (Health AI)
     company_url: 'https://research.google/'
@@ -48,7 +57,7 @@ experience:
     company_logo: logo-unr-wolf
     location: Nevada, United States
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2024-12-18'
     description: |2-
         *	Led my own research, implemented an ophthalmic assessment in virtual reality, collected control and patient data, analyzed data to predict and quantify defect in participants.
         * Analyzed temporal health data collected from various assessments, and predicted anomalous behaviour.
