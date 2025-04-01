@@ -6,7 +6,7 @@ title: Prithul Sarker
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer, Google
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
